@@ -1,0 +1,10 @@
+F:\C#\Assignment\MemoryStorm\MemoryStorm\bin\Debug\MemoryStorm.exe.config
+F:\C#\Assignment\MemoryStorm\MemoryStorm\bin\Debug\MemoryStorm.exe
+F:\C#\Assignment\MemoryStorm\MemoryStorm\bin\Debug\MemoryStorm.pdb
+F:\C#\Assignment\MemoryStorm\MemoryStorm\obj\Debug\MemoryStorm.csprojAssemblyReference.cache
+F:\C#\Assignment\MemoryStorm\MemoryStorm\obj\Debug\MemoryStorm.Form1.resources
+F:\C#\Assignment\MemoryStorm\MemoryStorm\obj\Debug\MemoryStorm.Properties.Resources.resources
+F:\C#\Assignment\MemoryStorm\MemoryStorm\obj\Debug\MemoryStorm.csproj.GenerateResource.cache
+F:\C#\Assignment\MemoryStorm\MemoryStorm\obj\Debug\MemoryStorm.csproj.CoreCompileInputs.cache
+F:\C#\Assignment\MemoryStorm\MemoryStorm\obj\Debug\MemoryStorm.exe
+F:\C#\Assignment\MemoryStorm\MemoryStorm\obj\Debug\MemoryStorm.pdb
